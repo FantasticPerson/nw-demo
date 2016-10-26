@@ -1,5 +1,5 @@
 /**
- * Created by macbookpro on 16/9/1.
+ * Created by wudandan on 16/9/1.
  */
 var NwBuilder = require('nw-builder');
 

@@ -1,5 +1,5 @@
 {
-  "name": "helloworld",
+  "name": "TrueCms",
   "//": "支持相对路径,url,绝对路径,或者直接是一个文件名,0.13不支持相对路径",
   "main": "index.html",
   "version": "0.0.1",
