@@ -2,6 +2,7 @@
   "name": "TrueCms",
   "//": "支持相对路径,url,绝对路径,或者直接是一个文件名,0.13不支持相对路径",
   "main": "index.html",
+  "node-remote":"http://10.18.209.119:8881",
   "version": "0.0.1",
   "window": {
     "toolbar": true,
@@ -14,6 +15,8 @@
   "dependencies": {
     "http-server": "^0.9.0",
     "nw-builder": "^3.1.2",
+    "nw-download": "^1.1.0",
+    "nw-notify": "^1.0.3",
     "nwjs-builder": "^1.13.1",
     "serve-index": "^1.8.0",
     "webpack-server": "^0.1.2"
